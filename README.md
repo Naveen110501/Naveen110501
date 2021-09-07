@@ -29,11 +29,18 @@ Hi there, I am Naveen V
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="center"> How to reach me </h3>
-
+<a href = "mailto:naveenvellaiyappan02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/naveen-v-092463190/)
 
 ___
+#### — AWS Training —
 
+Badge | Title | Earned | Link
+------------ | ------------- | ------------ | ------------
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
+
+___
 ### 📈 **Github Stats**
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Naveen110501&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" alt="Naveen" />
