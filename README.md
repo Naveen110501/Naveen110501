@@ -30,7 +30,7 @@ Hi there, I am Naveen V
 
 <h3 align="center"> How to reach me </h3>
 <a href = "mailto:naveenvellaiyappan02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/naveen-v-092463190/)
+[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">(https://www.linkedin.com/in/naveen-v-092463190/)]
 
 ___
 #### — AWS Training —
