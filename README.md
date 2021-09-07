@@ -1,5 +1,5 @@
 <h1>
-Hi there, I am Abhijith Ganesh
+Hi there, I am Naveen V
 </h1>
 <h2 align="center"> 
 <img height="40" width="40" alt="github" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
@@ -30,18 +30,17 @@ Hi there, I am Abhijith Ganesh
 
 <h3 align="center"> How to reach me </h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/AbhijithGanesh14/)
+[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/naveen-v-092463190/)
 
-[<img  src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
 ___
 
 ### 📈 **Github Stats**
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" alt="Abhijith Ganesh" />
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen110501&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" alt="Naveen" />
 </p>
 
 <div align = 'center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithGanesh&theme=gotham"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen110501&theme=gotham"/>
 </div>
 
-[![Abhijith's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
+[![Naveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naveen110501&theme=xcode)](https://git.io/Naveen110501)
