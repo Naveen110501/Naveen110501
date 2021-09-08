@@ -27,8 +27,8 @@ Hi there 👋
 
 <h2 align="center">🛠️ Tech Skills </h2>
 
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/-mongodb-%23003d05?style=for-the-badge&logo=mongodb)
 
