@@ -25,7 +25,7 @@ Hi there 👋
 
 
 
-<h3 align="center">🛠️ Languages & Frameworks</h3>
+<h2 align="center">🛠️ Languages & Frameworks</h2>
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ Hi there 👋
 ![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
 
-<h3 align="center">⚙️ Tools</h3>
+<h2 align="center">⚙️ Tools</h2>
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -44,14 +44,6 @@ Hi there 👋
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-### Development Profiles
-_Click to check out awesome projects_
-
-### Support my contributions
-_I spend atleast 5 hours a week on open-source project contributions_
 
 
 
