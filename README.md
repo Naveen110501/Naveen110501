@@ -25,36 +25,26 @@ Hi there 👋
 
 
 
-<h2 align="center">🛠️ Languages </h2>
+<h2 align="center">🛠️ Tech Skills </h2>
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-<h2 align="center">🛠️ Databases </h2>
-
 ![MongoDB](https://img.shields.io/badge/-mongodb-%23003d05?style=for-the-badge&logo=mongodb)
-
-<h2 align="center">🛠️ Frameworks </h2>
 
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-
-
-
-<h2 align="center">⚙️ Tools</h2>
 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=Heroku)
 
-<h2 align="center">⚙️ Operating System</h2>
 
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-windows-772953?style=for-the-badge&logo=windows)
 
 
 
