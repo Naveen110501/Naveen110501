@@ -15,9 +15,12 @@ Hi there 👋
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Naveen&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/naveen-v-092463190/) 
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Naveen110501&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/Naveen110501)
-[![Medium](https://img.shields.io/static/v1?label=Medium&message=Naveenvellaiyappan02&color=ffffff&style=for-the-badge&logo=medium&labelColor=21759B&logoColor=ffffff)](https://medium.com/@naveenvellaiyappan02)
 
+[![Medium](https://img.shields.io/static/v1?label=Medium&message=Naveenvellaiyappan02&color=ffffff&style=for-the-badge&logo=medium&labelColor=21759B&logoColor=ffffff)](https://medium.com/@naveenvellaiyappan02)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=Naveen201105&color=ffffff&style=for-the-badge&logo=kaggle&labelColor=#20beff&logoColor=#20beff)](https://www.kaggle.com/naveen201105)
+
+[![Hackerrank](https://img.shields.io/static/v1?label=Hackerrank&message=perfectly_imperf&color=ffffff&style=for-the-badge&logo=hackerrank&labelColor=#20beff&logoColor=#20beff)](https://www.hackerrank.com/perfectly_imperf)
+
 
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
