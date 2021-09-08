@@ -1,12 +1,25 @@
 <h1>
-Hi there, I am Naveen V
+Hi there 👋 
+</h1>
+
+</h1>
+ I am Naveen V
 </h1>
 <h2 align="center"> 
 <img height="40" width="40" alt="github" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
 
-- 🔭️ I'm a Web-Developer and a UI/UX enthusiast
-- 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- ✅ I'm learning Docker and GraphQL. 
+- 🔭️ I'm currently pursuing Bachelor of Technology , Information Technology in Madras Institute of Technology.
+
+<h3 align="center"> Connect With Me </h3>
+
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=facebook&labelColor=1877F2&logoColor=ffffff)](https://facebook.com/mehulgohilindia)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Naveen&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/naveen-v-092463190/) 
+
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Naveen110501&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/Naveen110501)
+[![Medium](https://img.shields.io/static/v1?label=Medium&message=mehul0810&color=ffffff&style=for-the-badge&logo=wordpress&labelColor=21759B&logoColor=ffffff)](https://medium.com/@naveenvellaiyappan02)
+
+[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=mehulgohil&color=ffffff&style=for-the-badge&logo=buymeacoffee&labelColor=FFDD00&logoColor=ffffff)](https://www.kaggle.com/naveen201105)
+
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
 
@@ -28,20 +41,14 @@ Hi there, I am Naveen V
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@mehul_gohil0810&color=ffffff&style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=ffffff)](https://twitter.com/mehul_gohil0810)
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=facebook&labelColor=1877F2&logoColor=ffffff)](https://facebook.com/mehulgohilindia)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/mehulgohilindia/) 
+
 
 ### Development Profiles
 _Click to check out awesome projects_
 
-[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=mehul0810&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/mehul0810)
-[![WordPress](https://img.shields.io/static/v1?label=WordPress&message=mehul0810&color=ffffff&style=for-the-badge&logo=wordpress&labelColor=21759B&logoColor=ffffff)](https://profiles.wordpress.org/mehul0810)
-
 ### Support my contributions
 _I spend atleast 5 hours a week on open-source project contributions_
 
-[![BuyMeACoffee](https://img.shields.io/static/v1?label=Buy%20Me%20A%20Coffee&message=mehulgohil&color=ffffff&style=for-the-badge&logo=buymeacoffee&labelColor=FFDD00&logoColor=ffffff)](https://buymeacoffee.com/mehulgohil)
 
 
 #### — AWS Training —
