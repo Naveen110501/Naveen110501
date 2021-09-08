@@ -45,7 +45,7 @@ Hi there 👋
 
 
 ![Tools](https://img.shields.io/badge/-tools-333333?style=for-the-badge&logo=tool)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-vscode-BA55D3?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-F4A460?style=for-the-badge&logo=heroku)
 
