@@ -13,6 +13,7 @@ Hi there 👋
 
 <h3 align="center"> Connect With Me </h3>
 
+[![Email](https://img.shields.io/static/v1?label=Email&message=Naveen&color=ffffff&style=for-the-badge&logo=email&labelColor=0A66C2&logoColor=ffffff)](mailto:naveenvellaiyappan02@gmail.com) 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Naveen&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/naveen-v-092463190/) 
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Naveen110501&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/Naveen110501)
 
