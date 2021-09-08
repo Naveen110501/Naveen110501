@@ -29,10 +29,11 @@ Hi there, I am Naveen V
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="center"> How to reach me </h3>
-[![Linkedin](social/linkedin.svg)](https://www.linkedin.com/in/naveen-v-092463190/)
-[![Medium](social/medium.svg)](https://medium.com/@naveenvellaiyappan02/)
-[![Gmail](social/gmail.svg)](mailto:naveenvellaiyappan02@gmail.com?subject=Hello👋)
-___
+![Linkedin](social/linkedin.svg)(https://www.linkedin.com/in/naveen-v-092463190/)
+![Medium](social/medium.svg)(https://medium.com/@naveenvellaiyappan02/)
+![Gmail](social/gmail.svg)(mailto:naveenvellaiyappan02@gmail.com?subject=Hello👋)
+
+
 #### — AWS Training —
 
 Badge | Title | Earned | Link
