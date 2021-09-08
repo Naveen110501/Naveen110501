@@ -17,7 +17,7 @@ Hi there 👋
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Naveen110501&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/Naveen110501)
 [![Medium](https://img.shields.io/static/v1?label=Medium&message=Naveenvellaiyappan02&color=ffffff&style=for-the-badge&logo=medium&labelColor=21759B&logoColor=ffffff)](https://medium.com/@naveenvellaiyappan02)
 
-[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=Naveen201105&color=ffffff&style=for-the-badge&logo=kaggle&labelColor=FFDD00&logoColor=ffffff)](https://www.kaggle.com/naveen201105)
+[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=Naveen201105&color=ffffff&style=for-the-badge&logo=kaggle&labelColor=FFDD00&logoColor=#20beff)](https://www.kaggle.com/naveen201105)
 
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
