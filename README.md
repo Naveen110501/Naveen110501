@@ -47,7 +47,7 @@ Hi there 👋
 ![Tools](https://img.shields.io/badge/-tools-333333?style=for-the-badge&logo=tool)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git)
-![Heroku](https://img.shields.io/badge/-Heroku-00a8e8?style=for-the-badge&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-F4A460?style=for-the-badge&logo=heroku)
 
 ![Operating_System](https://img.shields.io/badge/-operating_system-333333?style=for-the-badge&logo=operating_system)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
