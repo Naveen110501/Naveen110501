@@ -39,15 +39,15 @@ Hi there 👋
 
 
 ![Frameworks](https://img.shields.io/badge/-frameworks-333333?style=for-the-badge&logo=framework)
-![Flask](https://img.shields.io/badge/flask-FFA500?&style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-FFA500?&style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-FFA500?&style=for-the-badge&logo=aws&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-BA55D3?&style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-BA55D3?&style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-BA55D3?&style=for-the-badge&logo=aws&logoColor=white)
 
 
 ![Tools](https://img.shields.io/badge/-tools-333333?style=for-the-badge&logo=tool)
-![VSCode](https://img.shields.io/badge/-vscode-BA55D3?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git)
-![Heroku](https://img.shields.io/badge/-Heroku-F4A460?style=for-the-badge&logo=heroku)
+![VSCode](https://img.shields.io/badge/-vscode-FFA500?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-git-FFA500?style=for-the-badge&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-FFA500?style=for-the-badge&logo=heroku)
 
 ![Operating_System](https://img.shields.io/badge/-operating_system-333333?style=for-the-badge&logo=operating_system)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
