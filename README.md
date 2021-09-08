@@ -27,25 +27,29 @@ Hi there 👋
 
 <h2 align="center">🛠️ Tech Skills </h2>
 
+![Languages](https://img.shields.io/badge/-languages-333333?style=for-the-badge&logo=language)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white)
 
+![Databases](https://img.shields.io/badge/-databases-333333?style=for-the-badge&logo=database)
 ![MySQL](https://img.shields.io/badge/-mysql-%23003d05?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-mongodb-%23003d05?style=for-the-badge&logo=mongodb)
 ![InfluxDB](https://img.shields.io/badge/-influxdb-%23003d05?style=for-the-badge&logo=influxdb)
 
 
+![Frameworks](https://img.shields.io/badge/-frameworks-333333?style=for-the-badge&logo=framework)
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%23000.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws%20-%23000.svg?&style=for-the-badge&logo=aws&logoColor=white)
 
 
+![Tools](https://img.shields.io/badge/-tools-333333?style=for-the-badge&logo=tool)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=Heroku)
+![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-00a8e8?style=for-the-badge&logo=heroku)
 
-
+![Operating_System](https://img.shields.io/badge/-operating_system-333333?style=for-the-badge&logo=operating_system)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-windows-772953?style=for-the-badge&logo=windows)
 
