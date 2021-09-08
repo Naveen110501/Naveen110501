@@ -2,9 +2,10 @@
 Hi there 👋 
 </h1>
 
-</h1>
+<h1>
  I am Naveen V
 </h1>
+
 <h2 align="center"> 
 <img height="40" width="40" alt="github" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
 
@@ -12,13 +13,11 @@ Hi there 👋
 
 <h3 align="center"> Connect With Me </h3>
 
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=mehulgohilindia&color=ffffff&style=for-the-badge&logo=facebook&labelColor=1877F2&logoColor=ffffff)](https://facebook.com/mehulgohilindia)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Naveen&color=ffffff&style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=ffffff)](https://www.linkedin.com/in/naveen-v-092463190/) 
-
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Naveen110501&color=ffffff&style=for-the-badge&logo=github&labelColor=181717&logoColor=ffffff)](https://github.com/Naveen110501)
-[![Medium](https://img.shields.io/static/v1?label=Medium&message=mehul0810&color=ffffff&style=for-the-badge&logo=wordpress&labelColor=21759B&logoColor=ffffff)](https://medium.com/@naveenvellaiyappan02)
+[![Medium](https://img.shields.io/static/v1?label=Medium&message=Naveenvellaiyappan02&color=ffffff&style=for-the-badge&logo=medium&labelColor=21759B&logoColor=ffffff)](https://medium.com/@naveenvellaiyappan02)
 
-[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=mehulgohil&color=ffffff&style=for-the-badge&logo=buymeacoffee&labelColor=FFDD00&logoColor=ffffff)](https://www.kaggle.com/naveen201105)
+[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=Naveen201105&color=ffffff&style=for-the-badge&logo=kaggle&labelColor=FFDD00&logoColor=ffffff)](https://www.kaggle.com/naveen201105)
 
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
