@@ -41,7 +41,7 @@ Hi there 👋
 ![Frameworks](https://img.shields.io/badge/-frameworks-333333?style=for-the-badge&logo=framework)
 ![Flask](https://img.shields.io/badge/flask-FFDD00?&style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-FFDD00?&style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-FFDD00?&style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-DAA520?&style=for-the-badge&logo=aws&logoColor=white)
 
 
 ![Tools](https://img.shields.io/badge/-tools-333333?style=for-the-badge&logo=tool)
