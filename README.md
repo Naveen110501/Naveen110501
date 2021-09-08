@@ -1,4 +1,4 @@
-![](blog/banner.png)
+![](blog/banner1.png)
 
 <h1>
 Hi there 👋 
