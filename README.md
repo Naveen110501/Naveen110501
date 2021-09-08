@@ -29,14 +29,19 @@ Hi there 👋
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/-mysq-%23003d05?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-mongodb-%23003d05?style=for-the-badge&logo=mongodb)
+![InfluxDB](https://img.shields.io/badge/-influxdb-%23003d05?style=for-the-badge&logo=influxdb)
+
 
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
-
-
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-%23003d05?style=for-the-badge&logo=aws)
+
+
+
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
