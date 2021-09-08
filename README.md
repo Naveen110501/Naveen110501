@@ -31,16 +31,14 @@ Hi there 👋
 ![Python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-mysq-%23003d05?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-mysql-%23003d05?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-mongodb-%23003d05?style=for-the-badge&logo=mongodb)
 ![InfluxDB](https://img.shields.io/badge/-influxdb-%23003d05?style=for-the-badge&logo=influxdb)
 
 
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-%23003d05?style=for-the-badge&logo=aws)
-
-
+![Docker](https://img.shields.io/badge/docker%20-%23000.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws%20-%23000.svg?&style=for-the-badge&logo=aws&logoColor=white)
 
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
