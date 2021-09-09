@@ -64,8 +64,8 @@ Hi there 👋
 
 Badge | Title | Earned | Link
 ------------ | ------------- | ------------ | ------------
-![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
-![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
+![](blog/index.jpg?raw=true&s=50) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
+![](blog/index1.png?raw=true&s=50) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
 
 ___
 ### 📈 **Github Stats**
