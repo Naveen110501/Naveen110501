@@ -52,10 +52,10 @@
 
 <h2 align="center"> Certification </h2>
 
-Badge | Title | Type | Earned | Link
------------- | ------------- | ------------ | ------------ | ------------
-![](blog/index.jpg?raw=true&s=50) | Advanced Data Science with IBM | Specialization | June 2021 | [See certificate ↗](https://coursera.org/share/b74dac6b0e120088722191af191d91cd)
-![](blog/index1.png?raw=true&s=50) | Python for Everybody | Specialization | January 2021 | [See certificate ↗](https://coursera.org/share/a60a4c9a3dac114634dacba927fb0fec)
+Title | Type | Earned | Link
+------------- | ------------ | ------------ | ------------
+ Advanced Data Science with IBM | Specialization | June 2021 | [See certificate ↗](https://coursera.org/share/b74dac6b0e120088722191af191d91cd)
+ Python for Everybody | Specialization | January 2021 | [See certificate ↗](https://coursera.org/share/a60a4c9a3dac114634dacba927fb0fec)
 
 ___
 ### 📈 **Github Stats**
