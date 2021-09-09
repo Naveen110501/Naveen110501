@@ -54,8 +54,8 @@
 
 Badge | Title | Type | Earned | Link
 ------------ | ------------- | ------------ | ------------ | ------------
-![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | Advanced Data Science with IBM | Specialization | June 2021 | [See certificate ↗](https://coursera.org/share/b74dac6b0e120088722191af191d91cd)
-![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | Python for Everybody | Specialization | January 2021 | [See certificate ↗](https://coursera.org/share/a60a4c9a3dac114634dacba927fb0fec)
+![](blog/index.jpg?raw=true&s=50) | Advanced Data Science with IBM | Specialization | June 2021 | [See certificate ↗](https://coursera.org/share/b74dac6b0e120088722191af191d91cd)
+![](blog/index1.png?raw=true&s=50) | Python for Everybody | Specialization | January 2021 | [See certificate ↗](https://coursera.org/share/a60a4c9a3dac114634dacba927fb0fec)
 
 ___
 ### 📈 **Github Stats**
