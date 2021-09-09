@@ -1,13 +1,5 @@
 ![](blog/banner.jpg)
 
-<h1>
-Hi there 👋 
-</h1>
-
-<h2>
- I am Naveen V
-</h2>
-
 <h2 align="center"> 
 <img height="40" width="40" alt="github" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
 
@@ -58,23 +50,17 @@ Hi there 👋
 
 
 
+<h2 align="center"> Certification </h2>
 
-
-#### — AWS Training —
-
-Badge | Title | Earned | Link
------------- | ------------- | ------------ | ------------
-![](blog/index.jpg?raw=true&s=50) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
-![](blog/index1.png?raw=true&s=50) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
+Badge | Title | Type | Earned | Link
+------------ | ------------- | ------------ | ------------ | ------------
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | Advanced Data Science with IBM | Specialization | June 2021 | [See certificate ↗](https://coursera.org/share/b74dac6b0e120088722191af191d91cd)
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | Python for Everybody | Specialization | January 2021 | [See certificate ↗](https://coursera.org/share/a60a4c9a3dac114634dacba927fb0fec)
 
 ___
 ### 📈 **Github Stats**
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Naveen110501&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" alt="Naveen" />
 </p>
-
-<div align = 'center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen110501&theme=gotham"/>
-</div>
 
 [![Naveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naveen110501&theme=xcode)](https://git.io/Naveen110501)
